@@ -1,0 +1,1270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multi Blig Slider\n"
+"POT-Creation-Date: 2016-07-20 22:14+0530\n"
+"PO-Revision-Date: 2016-07-20 22:27+0530\n"
+"Last-Translator: Mike <mike@okapy.net>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\wp\\wp-content\\plugins\\MultiBlogSlider\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wp\\wp-content\\plugins"
+"\\MultiBlogSlider\n"
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/off-the-shelf.php:36
+msgid "MBS settings"
+msgstr ""
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/off-the-shelf.php:52
+msgid "OTS Settings"
+msgstr ""
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/off-the-shelf.php:55
+msgid ""
+"If you want more flexible slider, then contact me. I will provide you that "
+"in your budget. "
+msgstr ""
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/off-the-shelf.php:56
+msgid "You can contact me on my email. And my ID is "
+msgstr ""
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/off-the-shelf.php:57
+msgid ""
+"Put \"Slider Request\" as your subject so I can understand and contact you "
+"back."
+msgstr ""
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/ots_widget.php:34
+msgid ""
+"Modify content slider to pull posts from another Wordpress multi-user blog "
+"in the same install based on category."
+msgstr ""
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/ots_widget.php:36
+msgid "Multi Blog Slider"
+msgstr ""
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/ots_widget.php:109
+msgid "No posts found"
+msgstr ""
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/ots_widget.php:165
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/ots_widget.php:169
+msgid "Blog Id:"
+msgstr ""
+
+#: C:\wamp\www\wp\wp-content\plugins\MultiBlogSlider/ots_widget.php:198
+msgid "Category"
+msgstr ""
+
+#~ msgid "NXS Reposter"
+#~ msgstr "NXS Reposter"
+
+#~ msgid "Wrong key, please contact support"
+#~ msgstr "Неправильный ключ, пожалуйста, обратитесь в службу поддержки"
+
+#~ msgid "Inserts the Title of the post"
+#~ msgstr "Вставляет Название записи"
+
+#~ msgid "Inserts the URL of the post"
+#~ msgstr "Вставляет ссылку на запись"
+
+#~ msgid "Inserts the <b>shortened URL</b> of your post"
+#~ msgstr "Вставляет <b>короткую ссылку<b> вашей записи"
+
+#~ msgid "Inserts the featured image URL"
+#~ msgstr "Вставляет ссылку на миниатюру записи"
+
+#~ msgid "Inserts the excerpt of the post (processed)"
+#~ msgstr "Вставляет цитату поста (преобразованную)"
+
+#~ msgid "Inserts the excerpt of the post (as typed)"
+#~ msgstr "Вставляет цитату поста (непреобразованную)"
+
+#~ msgid ""
+#~ "Inserts the text till the &lt;!--more--&gt; tag or first N words of the "
+#~ "post"
+#~ msgstr "Вставляет текст до тега &lt;!--more--&gt; или первые N слов записи"
+
+#~ msgid "Inserts the processed body(text) of the post"
+#~ msgstr "Вставляет преоразованный текст записи"
+
+#~ msgid "Inserts the body(text) of the post as typed"
+#~ msgstr "Вставляет текст непреобразованной записи"
+
+#~ msgid "Inserts post tags"
+#~ msgstr "Вставляет таги записи"
+
+#~ msgid "Inserts post categories"
+#~ msgstr "Вставляет категории записи"
+
+#~ msgid "Inserts post tags as hashtags"
+#~ msgstr "Вставляет таги записи в виде hashtags"
+
+#~ msgid "Inserts post categories as hashtags"
+#~ msgstr "Вставляет категории записи в виде hashtags"
+
+#~ msgid "Inserts the author's name"
+#~ msgstr "Вставляет имя автора"
+
+#~ msgid "Inserts the the Blog/Site name"
+#~ msgstr "Вставляет имя Блога/сайта"
+
+#~ msgid ""
+#~ "You already have %s configured.  This plugin supports only one %s "
+#~ "account. <br/><br/> Please consider getting <a target=\"_blank\" href="
+#~ "\"http://www.nextscripts.com/social-networks-auto-poster-for-wp-multiple-"
+#~ "accounts\">Multiple Accounts Edition</a> if you would like to add another "
+#~ "%s account for auto-posting."
+#~ msgstr ""
+#~ "У вас уже %s сконфигурирован. Этот плагин поддерживает только один %s  "
+#~ "аккаунт. <br/><br/> Чтобы добавить дополнительные аккаунты в авто-постер, "
+#~ "Вам необходимо приобрести <a target=\"_blank\" href=\"http://www."
+#~ "nextscripts.com/social-networks-auto-poster-for-wp-multiple-accounts"
+#~ "\">Multiple Accounts Edition</a> %s"
+
+#~ msgid "Posting Delay"
+#~ msgstr "Задержка размещения"
+
+#~ msgid "Image(s) to use:"
+#~ msgstr "Картинка(и) для использования "
+
+#~ msgid "Auto"
+#~ msgstr "авто"
+
+#~ msgid "Show all"
+#~ msgstr "Показать все"
+
+#~ msgid "URL to use:"
+#~ msgstr "Ссылка для использования:"
+
+#~ msgid "Post URL or globally defined URL will be used"
+#~ msgstr ""
+#~ "Вставьте ссылку или будет использована ссылка, определенная в настройках"
+
+#~ msgid "URL:"
+#~ msgstr "Ссылка:"
+
+#~ msgid ""
+#~ "This will trigger \"Network will decide attachment info\". Image and "
+#~ "other settings will be ignored."
+#~ msgstr ""
+#~ "Это запустит \"Network will decide attachment info\". Картинка и другие "
+#~ "настройки не будут использованы."
+
+#~ msgid "Auto Reposting"
+#~ msgstr "Автоматический перепост"
+
+#~ msgid "[Instructions]"
+#~ msgstr "[Инструкции]"
+
+#~ msgid "Plugin could autorepost existing posts"
+#~ msgstr "Плагин может автоматически делать перепост существующей записи"
+
+#~ msgid "Repost existing posts every"
+#~ msgstr "Делать перепост существующей записи каждые"
+
+#~ msgid "Days"
+#~ msgstr "Дней"
+
+#~ msgid "Hours"
+#~ msgstr "Часов"
+
+#~ msgid "Minutes"
+#~ msgstr "Минут"
+
+#~ msgid "Randomize posting time &#177;"
+#~ msgstr "Размещать случайным образом &#177;"
+
+#~ msgid "Repost ONLY previously unautoposted posts"
+#~ msgstr ""
+#~ "Делать перепост ТОЛЬКО те записи, которые не были размещены автоматически"
+
+#~ msgid "Get posts"
+#~ msgstr "Получить записи"
+
+#~ msgid "from"
+#~ msgstr "от"
+
+#~ msgid "to"
+#~ msgstr "к"
+
+#~ msgid "Older then"
+#~ msgstr "более поздние чем"
+
+#~ msgid "and Newer then"
+#~ msgstr "и более ранние чем"
+
+#~ msgid "[Set All Existing Posts to \"Enabled for Repost\"]"
+#~ msgstr "[сделать все существующие записи \"Разрешенными для Перепоста\"]"
+
+#~ msgid "[Set All Existing Posts to \"Disabled for Repost\"]"
+#~ msgstr "[сделать все существующие записи \"Неразрешенными для Перепоста\"]"
+
+#~ msgid "Last post"
+#~ msgstr "Последняя запись"
+
+#~ msgid "was re-posted on:"
+#~ msgstr "был перепощен:"
+
+#~ msgid "Next post will be ~"
+#~ msgstr "Следующая запись будет ~"
+
+#~ msgid "[Reset]"
+#~ msgstr "[Reset]"
+
+#~ msgid "Set \"Last re-posted post ID\" to:"
+#~ msgstr "Установить \"ID последней записи для перепоста \" на:"
+
+#~ msgid "[Set]"
+#~ msgstr "[Установить]"
+
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+#~ msgid " MByte"
+#~ msgstr " MByte"
+
+#~ msgid "PHP Version"
+#~ msgstr "PHP Version"
+
+#~ msgid "Memory limit"
+#~ msgstr "Ограничение памяти"
+
+#~ msgid "Memory usage"
+#~ msgstr "Количество использованной памяти"
+
+#~ msgid "Settings Updated."
+#~ msgstr "Настройки обновлены."
+
+#~ msgid "Only selected categories will be autoposted to this account"
+#~ msgstr "Только выбранные категории будут авторазмещены на этом аккаунте"
+
+#~ msgid "Reposter is activated for this account"
+#~ msgstr "Перепост активирован для этого аккаунта"
+
+#~ msgid "Import Settings"
+#~ msgstr "Импортировать настройки"
+
+#~ msgid "Export Settings"
+#~ msgstr "Экспортировать настройки"
+
+#~ msgid "Update Settings"
+#~ msgstr "Обновить настройки"
+
+#~ msgid "How to make auto-posts?"
+#~ msgstr "Как сделать авто-записи?"
+
+#~ msgid "What's the difference?"
+#~ msgstr "В чем разница?"
+
+#~ msgid "The difference between \"Immediately\" and \"Scheduled\""
+#~ msgstr "Разница между \"Немедленно\" and \"Запланированно\""
+
+#~ msgid ""
+#~ "<b>\"Immediately\"</b> - Once you click \"Publish\" button plugin starts "
+#~ "pushing your update to configured social networks. At this time you need "
+#~ "to wait and look at the turning circle. Some APIs are pretty slow, so you "
+#~ "have to wait and wait and wait until all updates are posted and page "
+#~ "released back to you."
+#~ msgstr ""
+#~ "<b>\"Немедленно\"</b> - После нажатия кнопки \"Опубликовать\"б плагин "
+#~ "начинает размещать ваши обновления на настроенные социальные сети. В это "
+#~ "время вам необходимо ждать и смотреть на крутящийся кружок. Некоторые API "
+#~ "довольно медленные, поэтому вам придется ждать, ждать и ждать, пока все "
+#~ "обновления не разместятся, и страница не вернется для использования."
+
+#~ msgid ""
+#~ "<b>\"Scheduled\"</b> - Releases the page immediately back to you, so you "
+#~ "can proceed with something else and it schedules all auto-posting jobs to "
+#~ "your WP-Cron. This is much faster and much more efficient, but it could "
+#~ "not work if your WP-Cron is disabled or broken."
+#~ msgstr ""
+#~ "<b>\"Запланированно\"</b> - Возвращает страницу для использования "
+#~ "немедленно, таким образом у вас есть возможность продолжать работу, "
+#~ "поскольку все авторазмещения будут сделаны вашим WP-Cron. Этот способ "
+#~ "более эргономичный, но он не будет работать, если ваш WP-Cron отключен "
+#~ "или сломан. "
+
+#~ msgid "Publish Immediately"
+#~ msgstr "Разместить немедленно"
+
+#~ msgid ""
+#~ "No WP Cron will be used. Choose if WP Cron is disabled or broken on your "
+#~ "website"
+#~ msgstr ""
+#~ "WP Cron не будет использован. Выбрать, если WP Cron отключен или слобман "
+#~ "на вашем сайте"
+
+#~ msgid "Use WP Cron to Schedule autoposts"
+#~ msgstr "Использовать WP Cron для планирования авторазмещений"
+
+#~ msgid ""
+#~ "Recommended for most sites. Faster Performance - requires working WP Cron"
+#~ msgstr ""
+#~ "Рекомендуется для большинства сайтов. Для наиболее быстрой работы "
+#~ "необходим работающий WP Cron"
+
+#~ msgid "Proper setup for WP Cron is REQURED for this feature to work."
+#~ msgstr "Правильная настройка WP Cron необходима, чтобы это работало"
+
+#~ msgid "Please see here for the proper WP Cron setup tutorial"
+#~ msgstr "Смотрите здесь как правильно настроить WP Cron "
+
+#~ msgid "Limit autoposting speed"
+#~ msgstr "ограничить скорость авторазмещения"
+
+#~ msgid "Recommended for busy sites with a lot of new posts."
+#~ msgstr "Рекомендовано для занятых сайтов со множеством новых записей."
+
+#~ msgid ""
+#~ "What to do with the rest of the posts if there are more posts then daily "
+#~ "limit?"
+#~ msgstr ""
+#~ "Что делать с остальными записями, если записей больше чем дневной лимит?"
+
+#~ msgid "Skip/Discard/Don't Autopost "
+#~ msgstr "Пропустить/Удалить/Не размещать"
+
+#~ msgid "Schedule for tomorrow"
+#~ msgstr "Запланировать на завтра"
+
+#~ msgid "Not recommended, may cause significant delays"
+#~ msgstr "Не рекомендуется, может послужить причиной серьезных задержек"
+
+#~ msgid "User Privileges/Security"
+#~ msgstr "Привелегии пользователя/Безопасность"
+
+#~ msgid "Skip User Security Verification."
+#~ msgstr "Пропустить проверку настроек безопасности пользователя."
+
+#~ msgid ""
+#~ "NOT Recommended, but useful in some situations. This will allow "
+#~ "autoposting for everyone even for the non-existent users."
+#~ msgstr ""
+#~ "Не рекомендуется, но может быть полезным в некоторых ситуациях - "
+#~ "позволяет автопост для всех, даже несуществующих пользователей. "
+
+#~ msgid "Who can make autoposts without seeing any auto-posting options?"
+#~ msgstr "Кто может делать автопост, не видя настроек?"
+
+#~ msgid ""
+#~ "Who can see auto-posting options on the \"New Post\" and \"Edit Post\" "
+#~ "pages and make autoposts?"
+#~ msgstr ""
+#~ "Кто может видеть возможности автопоста на страницах  \"Новая запись\" и "
+#~ "\"Отредактировать запись\", и иметь возможность авторазмещения записей?"
+
+#~ msgid "Include/Exclude Wordpress Pages and Custom Post Types"
+#~ msgstr "Включить/Исключить Wordpress страницы и Произвольные типы записей"
+
+#~ msgid "Use for Wordpress Pages"
+#~ msgstr "Использовать для Wordpress страниц"
+
+#~ msgid "Show the SNAP metabox and auto-post for pages, not just posts."
+#~ msgstr "Показать SNAP metabox и автопост для страниц, не только записей. "
+
+#~ msgid "Custom Post Types:"
+#~ msgstr "Произвольные типы записей:"
+
+#~ msgid ""
+#~ "Please select \"Custom Post Types\" that you would like to be autoposted "
+#~ "to your social networks"
+#~ msgstr ""
+#~ "Пожалуйста, выберите \"Произвольные типы записей\" которые вы бы хотели "
+#~ "авторазместить в ваши социальные сети"
+
+#~ msgid "Categories to Include/Exclude:"
+#~ msgstr "Включить/Исключить категории: "
+
+#~ msgid ""
+#~ "Each blogpost will be autoposted to all categories selected below. All "
+#~ "categories are selected by default. \n"
+#~ "              <b>Uncheck</b> categories that you would like <b>NOT</b> to "
+#~ "auto-post by default. Assigning the uncheked category to the new blogpost "
+#~ "will turn off auto-posting to all configured networks."
+#~ msgstr ""
+#~ "Каждая запись в блоге будет авторазмещена во всех категориях, выбранных "
+#~ "ниже. Все категории выбраны по умолчанию. \n"
+#~ "              <b>Отменить</b> категории, которые вы желаете <b>НЕ</b> "
+#~ "авторазмещать по умолчанию. Выбор отмененной категории для новой записи "
+#~ "блога выключит автопост для всех настроенных сетей. "
+
+#~ msgid "URL Shortener"
+#~ msgstr "Укорачиватель ссылки"
+
+#~ msgid "Auto-Import comments from Social Networks"
+#~ msgstr "Автоматически импортировать комментарии из социальных сетей"
+
+#~ msgid "New"
+#~ msgstr "Новое"
+
+#~ msgid "Additional URL Parameters"
+#~ msgstr "Дополнительные параметры ссылки"
+
+#~ msgid "Will be added to backlinks."
+#~ msgstr "Будет добавлено к обратным ссылкам."
+
+#~ msgid "Additional URL Parameters:"
+#~ msgstr "Дополнительные параметры ссылки:"
+
+#~ msgid ""
+#~ "You can use %NTNAME% for social network name, %NTCODE% for social network "
+#~ "two-letter code, %ACCNAME% for account name,  %POSTID% for post ID,  "
+#~ "%POSTTITLE% for post title, %SITENAME% for website name. <b>Any text must "
+#~ "be URL Encoded</b><br/>Example: utm_source=%NTCODE%&utm_medium=%ACCNAME"
+#~ "%&utm_campaign=SNAP%2Bfrom%2B%SITENAME%"
+#~ msgstr ""
+#~ "Вы можете использовать %NTNAME% для имени социальной сети, %NTCODE% для "
+#~ "двух-буквенного кода социальной сети, %ACCNAME% для имени аккаунта, "
+#~ "%POSTID% для ID записи,  %POSTTITLE% для названия записи, %SITENAME% для "
+#~ "имени сайта. <b>Любой текст должен быть в URL кодировке </b><br/"
+#~ ">Например: utm_source=%NTCODE%&utm_medium=%ACCNAME%&utm_campaign=SNAP"
+#~ "%2Bfrom%2B%SITENAME%"
+
+#~ msgid "Auto-HashTags Settings"
+#~ msgstr "настройка автоматических хэш-тегов"
+
+#~ msgid "How to generate hashtags if tag is longer then one word"
+#~ msgstr "Как сгенерировать хэш-теги, если таг больше, чем одно слово"
+
+#~ msgid "Replace spaces in hashtags with "
+#~ msgstr "Заменить пробелы в хэш-тегах с"
+
+#~ msgid "%ANNOUNCE% tag settings"
+#~ msgstr "настройка тега %ANNOUNCE% "
+
+#~ msgid ""
+#~ "Plugin will take text untill the &lt;!--more--&gt; tag. Please specify "
+#~ "how many characters should it get if &lt;!--more--&gt; tag is not found"
+#~ msgstr ""
+#~ "Плагин возьмет текст до тега &lt;!--more--&gt;. Пожалуйста, уточните как "
+#~ "много символов он должен взять, если тег &lt;!--more--&gt; не найден"
+
+#~ msgid "How many characters:"
+#~ msgstr "Как много символов:"
+
+#~ msgid "\"Open Graph\" Tags"
+#~ msgstr "\"Open Graph\" теги"
+
+#~ msgid ""
+#~ "\"Open Graph\" tags are used for generating title, description and "
+#~ "preview image for your Facebook and Google+ posts. This is quite simple "
+#~ "implementation of \"Open Graph\" Tags. This option will only add tags "
+#~ "needed for \"Auto Posting\". If you need something more serious uncheck "
+#~ "this and use other specialized plugins."
+#~ msgstr ""
+#~ "\"Open Graph\" теги используются для генерирования названия, описания и "
+#~ "картинки предпросмотра для ваших Facebook and Google+ записей. Это "
+#~ "простое и полезное использование \"Open Graph\" тегов, т.к эта опция "
+#~ "только добавляет теги, необходимые для \"Auto Posting\". Если вы "
+#~ "исползуете другие специализированные плагины, отмените эту опцию."
+
+#~ msgid "Add Open Graph Tags"
+#~ msgstr "Добавить \"Open Graph\" теги"
+
+#~ msgid "Default Image URL for og:image tag:"
+#~ msgstr "Ссылка на артинку по умолчанию og:image tag:"
+
+#~ msgid "Advanced \"Featured\" Image Settings"
+#~ msgstr "Расширенные  \"Featured\" настройки картинки"
+
+#~ msgid "Use advanced image finder"
+#~ msgstr "Используйте расширенный поиск картинки"
+
+#~ msgid ""
+#~ "Check this if your images could be found only in the fully processed "
+#~ "posts. <br/>This feature could interfere with some plugins using post "
+#~ "processing functions incorrectly. Your site could become messed up, have "
+#~ "troubles displaying content or start giving you \"ob_start() [ref."
+#~ "outcontrol]: Cannot use output buffering in output buffering display "
+#~ "handlers\" errors."
+#~ msgstr ""
+#~ "Отметьте, если ваша картинка может быть найдена только в полностью "
+#~ "преобразованной записи.  <br/>Эта функция может вмешиваться в работу "
+#~ "некотрых плагинов, которые используют преобразование записи некорректно. "
+#~ "Ваш сайт может начать выдавать ошибки, терять контент или выдавать ошибку "
+#~ "\"ob_start() [ref.outcontrol]: Cannot use output buffering in output "
+#~ "buffering display handlers\"."
+
+#~ msgid "Alternative \"Featured Image\" location"
+#~ msgstr "Альтернативное расположение  \"Миниатюры записи\" "
+
+#~ msgid ""
+#~ "Plugin uses standard Wordpress \"Featured Image\" by default. If your "
+#~ "theme stores \"Featured Image\" in the custom field, please enter the "
+#~ "name of it. Use prefix if your custom field has only partial location."
+#~ msgstr ""
+#~ "Плагин использует стандартную версию Wordpress \"Миниатюра записи\" по "
+#~ "умолчанию. Если ваша тема сохраняет \"Миниатюру записи\" в произвольном "
+#~ "поле, пожалуйста, введите его имя. Используйте префикс, если ваше "
+#~ "произвольное поле имеет только часть адреса."
+
+#~ msgid "Custom field name:"
+#~ msgstr "Имя произвольного поля:"
+
+#~ msgid "Set the name of the custom field that contains image info"
+#~ msgstr "Введите имя произольного поля, которое содержит информацию картинки"
+
+#~ msgid "Custom field Array Path:"
+#~ msgstr "Путь в массиве произвольного поля:"
+
+#~ msgid "Optional"
+#~ msgstr "Необязательное"
+
+#~ msgid ""
+#~ "If your custom field contain an array, please enter the path to the image "
+#~ "field. For example: ['images']['image']"
+#~ msgstr ""
+#~ "Если ваше произвольное поле содержит массив, пожалуйста, введите путь к "
+#~ "картинке в этом массиве. Например:  ['images']['image']"
+
+#~ msgid "Custom field Image Prefix:"
+#~ msgstr "Префикс произвольного поля картинки:"
+
+#~ msgid ""
+#~ "If your custom field contain only the last part of the image path, please "
+#~ "enter the prefix"
+#~ msgstr ""
+#~ "Если ваше произвольное поле содержит только последнюю часть пути к "
+#~ "картинке, пожалуйста, введите префикс"
+
+#~ msgid "Debug/Report Settings"
+#~ msgstr "Debug/Report настройки "
+
+#~ msgid "How many log records keep?"
+#~ msgstr "Сколько строчек хранить в журнале?"
+
+#~ msgid "Minimal"
+#~ msgstr "Минимальное"
+
+#~ msgid ""
+#~ "Only important action info will be added to the log. \"Debug\", \"Skipped"
+#~ "\", informational info will be ignored."
+#~ msgstr ""
+#~ "Только важная информация о действиях будет добавлена в лог. \"Debug\", "
+#~ "\"Skipped\", а также информационные сведения, добавлены не будут."
+
+#~ msgid "Normal"
+#~ msgstr "Обычное"
+
+#~ msgid "All info except extended debug queryies will be added to the log."
+#~ msgstr ""
+#~ "Вся информация, за исключением расширенных debug запросов, будет "
+#~ "добавлена в журнал."
+
+#~ msgid "Extended/Debug"
+#~ msgstr "Extended/Debug"
+
+#~ msgid "Advanced Setting. Extended debug Info will be added to the log."
+#~ msgstr ""
+#~ "Продвинутые настройки.  Расширенные debug запросы будут добавлены в "
+#~ "журнал."
+
+#~ msgid ""
+#~ "Send Email notification for all autoposting errors. No more then one "
+#~ "email per hour will be sent."
+#~ msgstr ""
+#~ "Послать email-уведомление обо всех ошибках авто-поста. Все ошибки "
+#~ "объединяются в одно сообщение, не больше чем одно сообщение в час. "
+
+#~ msgid "Email:"
+#~ msgstr "Email:"
+
+#~ msgid ""
+#~ "wp_mail will be used. Some email providers (gmail, hotmail) might have "
+#~ "problems getting such mail"
+#~ msgstr ""
+#~ "wp_mail будет использован. Некоторые провайдеры (gmail, hotmail) могут "
+#~ "иметь трудности а получении такого рода сообщений."
+
+#~ msgid ""
+#~ "Set random delays around your interval time, to make your posts appear "
+#~ "more human"
+#~ msgstr ""
+#~ "Установить случайные задержки между временными интервалами, чтобы записи "
+#~ "выглядели более натурально"
+
+#~ msgid "Contact support"
+#~ msgstr "Обратиться в поддержку"
+
+#~ msgid ""
+#~ "Ready to to Upgrade to Multiple Accounts Edition<br/> and get Google+ and "
+#~ "Pinterest Auto-Posting?"
+#~ msgstr ""
+#~ "Готовы перейти на Multiple Accounts Edition (возможность добавлять "
+#~ "несколько аккаунтов),<br/>  а также возможность авто-размещения вGoogle+ "
+#~ "и Pinterest?"
+
+#~ msgid "Enter your Activation Key"
+#~ msgstr "Введите ключ активации"
+
+#~ msgid "Get It here"
+#~ msgstr "Получить здесь"
+
+#~ msgid "Activation"
+#~ msgstr "Активация"
+
+#~ msgid "Multiple Accounts Edition and Google+ and Pinterest Auto-Posting"
+#~ msgstr "Multiple Accounts Edition и авто-размещение в Google+ и Pinterest "
+
+#~ msgid "You can find your key on this page"
+#~ msgstr "Ваш ключ на этой странице"
+
+#~ msgid "Enter your Key"
+#~ msgstr "Введите ваш ключ"
+
+#~ msgid "Your plugin will be automatically upgraded"
+#~ msgstr "Ваш плагин будет автоматически обновлен"
+
+#~ msgid "Next Scripts: Social Networks Auto Poster Options"
+#~ msgstr "Next Scripts: Social Networks Auto Poster настройки"
+
+#~ msgid "Plugin Version"
+#~ msgstr "Версия плагина"
+
+#~ msgid "Get"
+#~ msgstr "Получить"
+
+#~ msgid "Here you can setup \"Social Networks Auto Poster\"."
+#~ msgstr "Здесь вы можете настроить \"Social Networks Auto Poster\"."
+
+#~ msgid ""
+#~ "You can start by clicking \"Add new account\" button and choosing the "
+#~ "Social Network you would like to add."
+#~ msgstr ""
+#~ "Начните, нажав на кнопку \"Add new account\" и выбрав социальную сеть, "
+#~ "которую вы бы хотели добавить."
+
+#~ msgid "You have Google Analytics Plugin installed and activated."
+#~ msgstr "Google Analytics плагин установлен и активирован."
+
+#~ msgid "This plugin hijacks the authorization workflow."
+#~ msgstr "Этот плагин перехватывает авторизацию потоков. "
+
+#~ msgid ""
+#~ "Please temporary <a href=\"%s\">deactivate</a> Google Analytics plugin, "
+#~ "do all authorizations and then activate it back."
+#~ msgstr ""
+#~ "Пожалуйста, временно <a href=\"%s\">деактивируйте</a> Google Analytics "
+#~ "плагин, сделайте все авторизации, а затем активируйте его обратно."
+
+#~ msgid "Post URL will be used"
+#~ msgstr "ссылка записи будет использована"
+
+#~ msgid ""
+#~ "If you made any changes to the format, please \"Update\" the post before "
+#~ "reposting"
+#~ msgstr ""
+#~ "Если вы делали какие-либо изменения формата, пожалуйста \"Обновите\" "
+#~ "запись до переразмещения "
+
+#~ msgid "Check All"
+#~ msgstr "Отметить все"
+
+#~ msgid "Uncheck All"
+#~ msgstr "Отменить все"
+
+#~ msgid "NextScripts: Social Networks Auto Poster - Post Options"
+#~ msgstr "NextScripts: Social Networks Auto Poster - настройки записи"
+
+#~ msgid "accounts"
+#~ msgstr "аккаунты"
+
+#~ msgid "Auto-publish to"
+#~ msgstr "Авто-разместить в"
+
+#~ msgid "Attention requred. Unfinished setup"
+#~ msgstr "Внимание. Не закончена установка"
+
+#~ msgid "Remove Account"
+#~ msgstr "Удалить аккаунт"
+
+#~ msgid "Detailed %s Installation/Configuration Instructions"
+#~ msgstr "Инструкции детальной %s Установки/Конфигурации "
+
+#~ msgid "Account Nickname"
+#~ msgstr "Название аккаунта"
+
+#~ msgid "Just so you can easily identify it"
+#~ msgstr "Для упрощения поиска и распознания"
+
+#~ msgid "Account Info"
+#~ msgstr "Информация аккаунта"
+
+#~ msgid "Advanced"
+#~ msgstr "Расширенные"
+
+#~ msgid "Text Format"
+#~ msgstr "Формат текста"
+
+#~ msgid "Show format info"
+#~ msgstr "Показать информацию формата"
+
+#~ msgid "New post (%TITLE%) has been published on %SITENAME% - %URL%"
+#~ msgstr "Новая запись (%TITLE%) была размещена %SITENAME% - %URL%"
+
+#~ msgid "Attach Image to App.net Post"
+#~ msgstr "Прикрепить картинку к App.net записи"
+
+#~ msgid "Authorize Your App.Net Account"
+#~ msgstr "Авторизировать ваш App.Net аккаунт"
+
+#~ msgid ""
+#~ "Please click \"Update Settings\" to be able to Authorize your account."
+#~ msgstr ""
+#~ "Пожалуйста, нажмите \"обновить настройки\", чтобы авторизировать ваш "
+#~ "аккаунт."
+
+#~ msgid "Your App.Net Account has been authorized."
+#~ msgstr "Ваш App.Net Account был авторизован."
+
+#~ msgid "You can"
+#~ msgstr "Вы можете"
+
+#~ msgid "Authorize your account"
+#~ msgstr "Авторизировать ваш аккаунт"
+
+#~ msgid "If you get App.Net message:"
+#~ msgstr "Если вы получили App.Net сообщение:"
+
+#~ msgid ""
+#~ "please make sure that domain name in your App.Net App matches your "
+#~ "website domain exactly. Please note that www. and non www. versions are "
+#~ "different domains."
+#~ msgstr ""
+#~ "Пожалуйста, убедитесь что имя домейна в вашем App.Net App точно совпадает "
+#~ "с домейном вашего сайта. Обратите внимание, что версии www. и non www. "
+#~ "являются разными домейнами."
+
+#~ msgid "Test your settings"
+#~ msgstr "Проверить ваши настройки"
+
+#~ msgid "Submit Test Post to %s"
+#~ msgstr "Отправить тестовую запись в %s"
+
+#~ msgid "publish to"
+#~ msgstr "опубиковать в"
+
+#~ msgid "Repost to App.Net"
+#~ msgstr "переразместить в App.Net"
+
+#~ msgid "Posted on"
+#~ msgstr "Опубликовано в"
+
+#~ msgid "Include in \"Auto-Reposting\" to this network."
+#~ msgstr "Включить в \"авто-размещение\" для этой сети."
+
+#~ msgid "Text Format:"
+#~ msgstr "Формат текста:"
+
+#~ msgid "OK - Message Posted, please see your "
+#~ msgstr "Сообщение размещено, пожалуйста, смотрите свой"
+
+#~ msgid ""
+#~ "Log to your Blogger management panel and look at the URL of your blog: "
+#~ "http://www.blogger.com/blogger.g?blogID=8959085979163812093#allposts. "
+#~ "Your Blog ID will be: 8959085979163812093"
+#~ msgstr ""
+#~ "Залогиньтесь в вашу панель управления Blogger и найдите ссылку вашего "
+#~ "блога: http://www.blogger.com/blogger.g?"
+#~ "blogID=8959085979163812093#allposts. ID вашего блога будет: "
+#~ "8959085979163812093"
+
+#~ msgid "Post Title Format"
+#~ msgstr "Формат названия записи"
+
+#~ msgid "Post Text Format"
+#~ msgstr "Формат текста записи"
+
+#~ msgid "HTML is allowed"
+#~ msgstr "HTML разрешен"
+
+#~ msgid "Post with tags"
+#~ msgstr "Разместить с тагами"
+
+#~ msgid "Tags from the blogpost will be auto-posted to Blogger/Blogspot"
+#~ msgstr "Таги из записи блога будут авто-размещены в Blogger/Blogspot"
+
+#~ msgid "Submit Test Post to Finish Configuration"
+#~ msgstr "отправьте тестовое сообщение чтобы завешить конфигурацию"
+
+#~ msgid "Repost to Blogger"
+#~ msgstr "Переразместить в Blogger"
+
+#~ msgid "Setup your Blogger Account to AutoPost to Blogger"
+#~ msgstr "Установите ваш Blogger аккаунт для авто-размещения в Blogger"
+
+#~ msgid "Message Format:"
+#~ msgstr "Формат сообщения:"
+
+#~ msgid "deviantART API Library not found"
+#~ msgstr "deviantART библиотека API не найдена"
+
+#~ msgid "deviantART doesn't have a built-in API for automated posts yet."
+#~ msgstr ""
+#~ "deviantART пока не имеет встроенной API для автоматизированных размещений."
+
+#~ msgid ""
+#~ "<br/>You need to get a special <a target=\"_blank\" href=\"http://www."
+#~ "nextscripts.com/deviantart-automated-posting\"><b>API Library Module</b></"
+#~ "a> to be able to publish your content to deviantART."
+#~ msgstr ""
+#~ "<br/>Вам нужна специальная <a target=\"_blank\" href=\"http://www."
+#~ "nextscripts.com/deviantart-automated-posting\"><b>API библиотека</b></a> "
+#~ "чтобы публиковать ваши записи в deviantART."
+
+#~ msgid "%FULLTEXT%"
+#~ msgstr "%FULLTEXT%"
+
+#~ msgid "Repost to deviantART"
+#~ msgstr "Переразместить в deviantART"
+
+#~ msgid "Tags from the blogpost will be auto posted to Diigo"
+#~ msgstr "Таг этой записи будет авто-размещен в Diigo"
+
+#~ msgid "Repost to Diigo"
+#~ msgstr "Переразместить Diigo"
+
+#~ msgid "Repost to Delicious"
+#~ msgstr "Переразместить в Delicious"
+
+#~ msgid "Attention required. Unfinished setup"
+#~ msgstr "Внимание. Настройка не закончена"
+
+#~ msgid "New post (%TITLE%) has been published on %SITENAME%"
+#~ msgstr "Новое сообщение (%TITLE%) было размещено на %SITENAME%"
+
+#~ msgid "Please use in your Facebook App:"
+#~ msgstr "Пожалуйста, используйте в вашем Facebook App:"
+
+#~ msgid "Could be your Facebook Profile, Facebook Page, Facebook Group"
+#~ msgstr "Может быть ваш Facebook Profile, Facebook Page, Facebook Group"
+
+#~ msgid "Message text Format"
+#~ msgstr "Формат текста сообщения"
+
+#~ msgid "Text Post"
+#~ msgstr "Текст записи"
+
+#~ msgid "just text message"
+#~ msgstr "только текст сообщения"
+
+#~ msgid "Image Post"
+#~ msgstr "Картинка записи"
+
+#~ msgid "big image with text message"
+#~ msgstr "Большая картинка с текстом сообщения"
+
+#~ msgid "Upload Images to"
+#~ msgstr "Загрузить картинки в"
+
+#~ msgid "App Album"
+#~ msgstr "App Album"
+
+#~ msgid "or"
+#~ msgstr "или"
+
+#~ msgid "Timeline"
+#~ msgstr "Timeline"
+
+#~ msgid "Text Post with \"attached\" link"
+#~ msgstr "текст записи с \"прикрепленной\" ссылкой"
+
+#~ msgid "Link attachment type"
+#~ msgstr "тип прикрепленной ссылки"
+
+#~ msgid "Share a link to your blogpost"
+#~ msgstr "Поделиться ссылкой на вашу запись"
+
+#~ msgid "Attach your blogpost"
+#~ msgstr "прикрепить вашу запись"
+
+#~ msgid "If post has video use it as an attachment thumbnail."
+#~ msgstr ""
+#~ "Если запись имеет видео, используйте его как прикрепленную миниатюру "
+#~ "записи."
+
+#~ msgid ""
+#~ "Video will be used for an attachment thumbnail instead of featured image. "
+#~ "Only Youtube is supported at this time."
+#~ msgstr ""
+#~ "Видео будет использовано для прикрепленной миниатюры записи вместо "
+#~ "картинки. Только Youtube поддерживается в настоящее время."
+
+#~ msgid "Let Facebook fill the link info"
+#~ msgstr "Позвольте Facebook самостоятельно заполнить информацию о ссылке"
+
+#~ msgid ""
+#~ "Recommended. Facebook will automatically take attached/shared link info "
+#~ "from OG: tags or other sources."
+#~ msgstr ""
+#~ "Рекомендуется. Facebook автоматически возьмет информацию о ссылке из OG: "
+#~ "tags или других источников."
+
+#~ msgid "Attachment Text Format"
+#~ msgstr "Формат прикрепленного текста"
+
+#~ msgid ""
+#~ "Recommended. Info from SEO Plugins will be used, then post excerpt, then "
+#~ "post text"
+#~ msgstr ""
+#~ "Рекомендуется. Информация от SEO Plugins будет использована, затем цитата "
+#~ "записи, и только после этого текст записи"
+
+#~ msgid "Set your own format"
+#~ msgstr "Настройка вашего собственного формата"
+
+#~ msgid "Where to upload Images"
+#~ msgstr "Куда загрузить картинки"
+
+#~ msgid "(App Album)"
+#~ msgstr "(App Album)"
+
+#~ msgid ""
+#~ "Facebook automatically creates an album for your app. Images will be "
+#~ "grouped there as in any regular album."
+#~ msgstr ""
+#~ "Facebook автоматически создает альбом для вашего app. Картинки будут "
+#~ "сгруппированы там как в любом другом альбоме. "
+
+#~ msgid "(Timeline)"
+#~ msgstr "(Timeline)"
+
+#~ msgid ""
+#~ "Images will be posted to the special \"Wall/Timeline\" album and won't be "
+#~ "grouped. \"Wall/Timeline\" album must exist. It's created when first "
+#~ "image posted to timeline manually."
+#~ msgstr ""
+#~ "Картинки будут размещены в специальный \"Wall/Timeline\" альбом и не "
+#~ "будут сгруппированы. \"Wall/Timeline\"  должен существовать. Он "
+#~ "создается, когда первая картинка размещается на timeline вручную. "
+
+#~ msgid "Two ways of attaching post on Facebook"
+#~ msgstr "Два способа прикрепления записи к сообщению на Facebook"
+
+#~ msgid "Facebook Post Types"
+#~ msgstr "Типы сообщений на Facebook"
+
+#~ msgid "Authorize Your Facebook Account"
+#~ msgstr "Авторизируйте ваш Facebook аккаунт"
+
+#~ msgid "Your Facebook Account has been authorized."
+#~ msgstr "Ваш Facebook аккаунт был авторизован. "
+
+#~ msgid "If you get Facebook message:"
+#~ msgstr "Если вы получили Facebook сообщение:"
+
+#~ msgid ""
+#~ "please make sure that domain name in your Facebook App matches your "
+#~ "website domain exactly. Please note that www. and non www. versions are "
+#~ "different domains."
+#~ msgstr ""
+#~ "Пожалуйста, убедитесь что имя домейна в вашем Facebook App совпадает с "
+#~ "домейном вашего сайта в точности. Пожалуйста, обратите внимание, что "
+#~ "версии www. and non www. являются разными домейнами."
+
+#~ msgid "Facebook Comments:"
+#~ msgstr "Facebook комментарии:"
+
+#~ msgid ""
+#~ "Plugin could grab comments from Facebook and import them as Wordpress "
+#~ "Comments"
+#~ msgstr ""
+#~ "Плагин может взять комментарии с Facebook и импортировать их как "
+#~ "Wordpress Comments"
+
+#~ msgid "Import Facebook Comments"
+#~ msgstr "Импорт Facebook комментариев"
+
+#~ msgid "Auto-approve imported comments"
+#~ msgstr "Авто-одобрение импортированных комментариев"
+
+#~ msgid "Please activate the \"Comments Import\" from SNAP Settings Tab"
+#~ msgstr ""
+#~ "Пожалуйста, автивируйте \"импорт комментариев\"  из SNAP Settings Tab"
+
+#~ msgid "Repost to Facebook"
+#~ msgstr "Переразместить в Facebook"
+
+#~ msgid "Import Comments from Facebook"
+#~ msgstr "Импортировать комментарии из Facebook"
+
+#~ msgid "Post Type:"
+#~ msgstr "Тип записи:"
+
+#~ msgid "Text Post with \"attached\" blogpost"
+#~ msgstr "Текст записи с \"прикрепленной\" записи"
+
+#~ msgid "Link attachment type:"
+#~ msgstr "Тип прикрепленной ссылки:"
+
+#~ msgid "Attach Image to FriendFeed Post"
+#~ msgstr "Прикрепить картинку к FriendFeed записи"
+
+#~ msgid "Repost to FriendFeed"
+#~ msgstr "Переразместить в FriendFeed"
+
+#~ msgid "Google+ API Library not found"
+#~ msgstr "Google+ API библиотека не найдена"
+
+#~ msgid "Google+ doesn't have a built-in API for automated posts yet."
+#~ msgstr ""
+#~ "Google+ в настоящее время не имеет встроенного API для автоматизированных "
+#~ "записей."
+
+#~ msgid ""
+#~ "The current <a target=\"_blank\" href=\"http://developers.google.com/+/"
+#~ "api/\">Google+ API</a> is \"Read Only\" and can't be used for posting.  "
+#~ "<br/><br/>You need to get a special <a target=\"_blank\" href=\"http://"
+#~ "www.nextscripts.com/google-plus-automated-posting\"><b>API Library "
+#~ "Module</b></a> to be able to publish your content to Google+."
+#~ msgstr ""
+#~ "Данный <a target=\"_blank\" href=\"http://developers.google.com/+/api/"
+#~ "\">Google+ API</a> в формате \"Read Only\" и не может быть использован "
+#~ "для размещения.  <br/><br/>Вам необходимо приобрести <a target=\"_blank\" "
+#~ "href=\"http://www.nextscripts.com/google-plus-automated-posting\"><b>API "
+#~ "библиотеки</b></a> чтобы иметь возсожность публиковать ваши сообщения на "
+#~ "Google+."
+
+#~ msgid "Leave Empty to publish to your profile or community"
+#~ msgstr ""
+#~ "Оставьте пустым, если хотите опубликовать на ваш профиль или в коммьюнити"
+
+#~ msgid "Leave Empty to publish to your profile or community."
+#~ msgstr ""
+#~ "Оставьте пустым, если хотите опубликовать на ваш профиль или в коммьюнити"
+
+#~ msgid "Leave Empty to publish to your profile or page"
+#~ msgstr ""
+#~ "Оставьте пустым, если хотите опубликовать на ваш профиль или страницу"
+
+#~ msgid "Retrieve Categories and Page Names"
+#~ msgstr "Получить категории и названия страниц"
+
+#~ msgid "Google+ Image Post"
+#~ msgstr "Google+ картинка записи"
+
+#~ msgid "Add blogpost to Google+ message as an attachment"
+#~ msgstr "Добавить запись к  Google+ сообщению как прикрепление"
+
+#~ msgid "Google+ Post Types"
+#~ msgstr "Типы записей Google+"
+
+#~ msgid "Repost to Google+"
+#~ msgstr "Переразместить в Google+"
+
+#~ msgid "Autopost has been schedulled for"
+#~ msgstr "Авто-размещение было запланировано на"
+
+#~ msgid "Post to Google+ as \"Image post\""
+#~ msgstr "Разместить в Google+как \"картинку\""
+
+#~ msgid "Repost to Instapaper"
+#~ msgstr "Переразместить в Instapaper"
+
+#~ msgid "Message title Format (Groups Only)"
+#~ msgstr "Формат заголовка сообщения (только для групп)"
+
+#~ msgid "Repost to LinkedIn"
+#~ msgstr "Переразместить в LinkedIn"
+
+#~ msgid "Title Format (Groups Only):"
+#~ msgstr "Формат заголовка (только для групп)"
+
+#~ msgid "You can setup LiveJournal blog."
+#~ msgstr "Вы можете настроить LiveJournal блог."
+
+#~ msgid "Post Title and Post Text Formats"
+#~ msgstr "Форматы заголовка сообщения и текста сообщения"
+
+#~ msgid "Post with tags."
+#~ msgstr "Разместить с тагами."
+
+#~ msgid "Tags from the blogpost will be auto posted to LiveJournal"
+#~ msgstr "Таги из записи будут авто-размещены в LiveJournal "
+
+#~ msgid "Repost to LiveJournal"
+#~ msgstr "Переразместить в LiveJournal"
+
+#~ msgid "Repost to Plurk"
+#~ msgstr "Переразместить в Plurk"
+
+#~ msgid "If post has a video use it instead of image"
+#~ msgstr "Если запись имеет видео, используйте вместо картинки"
+
+#~ msgid ""
+#~ "Video will be pinned instead of featured image. Only Youtube is supported "
+#~ "at this time."
+#~ msgstr ""
+#~ "Видео будет использовано вместо миниатюры записи. Только Youtube "
+#~ "поддерживается в настоящее время."
+
+#~ msgid "Repost to Pinterest"
+#~ msgstr "Переразместить в Pinterest"
+
+#~ msgid "Text Message Format:"
+#~ msgstr "Формат текста сообщения:"
+
+#~ msgid "Reddit API Library not found"
+#~ msgstr "Reddit API библиотека не найдена"
+
+#~ msgid "Reddit doesn't have a built-in API for automated posts yet."
+#~ msgstr "Reddit не имеет встроенного API для автоматизированных записей."
+
+#~ msgid ""
+#~ "<br/>You need to get a special <a target=\"_blank\" href=\"http://www."
+#~ "nextscripts.com/reddit-automated-posting\"><b>API Library Module</b></a> "
+#~ "to be able to publish your content to Reddit."
+#~ msgstr ""
+#~ "<br/>Вам нужно приобрести специальный <a target=\"_blank\" href=\"http://"
+#~ "www.nextscripts.com/reddit-automated-posting\"><b>API библиотеки</b></a> "
+#~ "чтобы получить возможность размещать ваши записи на Reddit."
+
+#~ msgid "Link Post"
+#~ msgstr "ссылка записи"
+
+#~ msgid "set the text format below"
+#~ msgstr "настроить формат текста "
+
+#~ msgid "Repost to Reddit"
+#~ msgstr "переразместить на Reddit"
+
+#~ msgid "Repost to StumbleUpon"
+#~ msgstr "переразместить на StumbleUpon"
+
+#~ msgid "Repost to Tumblr"
+#~ msgstr "переразместить на Tumblr"
+
+#~ msgid "Text Post. Title Format:"
+#~ msgstr "Текст сообщения. Формат заголовка:"
+
+#~ msgid "Attach Image to Twitter Post"
+#~ msgstr "Прикрепить картинку к сообщению в Twitter"
+
+#~ msgid "Only selected categories will be autoposted to this account."
+#~ msgstr "Только выбранные категории будут авто-размещены на этот аккаунт."
+
+#~ msgid "Auto Import of Replies and Mentions:"
+#~ msgstr "Авто-импортирование Ответов и Упоминаний:"
+
+#~ msgid ""
+#~ "Plugin could grab Replies and Mentions from Twitter and import them as "
+#~ "Wordpress Comments"
+#~ msgstr ""
+#~ "Плагин может собирать Ответы и Упоминания из Twitter и импортировать их "
+#~ "как комментарии Wordpress"
+
+#~ msgid "Import Twitter Replies"
+#~ msgstr "импортировать Ответы из Twitter"
+
+#~ msgid "Import Twitter Mentions"
+#~ msgstr "импортировать Упоминания из Twitter"
+
+#~ msgid "autopost to"
+#~ msgstr "авто-разместить в"
+
+#~ msgid "Repost to Twitter"
+#~ msgstr "переразместить в Twitter"
+
+#~ msgid "Import Replies/Mentions from Twitter"
+#~ msgstr "Импортировать Ответы/Упоминания из Twitter"
+
+#~ msgid "Repost to vBulletin"
+#~ msgstr "Переразместить в vBulletin "
+
+#~ msgid "Could be your vKontakte(VK) Profile or vKontakte(VK) Group Page"
+#~ msgstr ""
+#~ "Может быть ваш профиль vKontakte(VK) или страница группы vKontakte(VK) "
+
+#~ msgid "(It could be used for \"Text\" and \"Image\" posts)"
+#~ msgstr "(It could be used for \"Text\" and \"Image\" posts)"
+
+#~ msgid "[Create VK App]"
+#~ msgstr "[Создать VK App]"
+
+#~ msgid "[Manage VK Apps]"
+#~ msgstr "[Управлять VK Apps]"
+
+#~ msgid ""
+#~ "<b>Authorize Your vKontakte(VK) Account</b>. Please click \"Update "
+#~ "Settings\" to be able to Authorize your account."
+#~ msgstr ""
+#~ "<b>авторизовать ваш аккаунт vKontakte(VK)</b>. Пожалуйста, нажмите "
+#~ "\"Обновить настройки\" чтобы получить возможность авторизовать аккаунт."
+
+#~ msgid "Your vKontakte(VK) Account has been authorized."
+#~ msgstr "Ваш аккаунт vKontakte(VK) был авторизован."
+
+#~ msgid "(It could be used for \"Text with attached link\" posts)"
+#~ msgstr ""
+#~ "(Это может быть использовано для сообщений \"Текст с прикрепленной ссылкой"
+#~ "\")"
+
+#~ msgid "Please upgrade the plugin to \"PRO\" get NextScripts VK API"
+#~ msgstr ""
+#~ "Чтобы получить NextScripts VK API, пожалуйста, приобретите плагин \"PRO\" "
+
+#~ msgid "Add backlink to the post"
+#~ msgstr "Добавьте обратную ссылку к записи"
+
+#~ msgid ""
+#~ "<strong>If post has video use it as an attachment thumbnail.</strong> "
+#~ "<i>Video will be used for an attachment thumbnail instead of featured "
+#~ "image. Only Youtube is supported at this time.</i>"
+#~ msgstr ""
+#~ "<strong>если запись имеет видео, используйте его как прикрепление.</"
+#~ "strong> <i>Видео будет использовано вместо миниатюры записи. Только "
+#~ "Youtube поддерживается в настоящее время.</i>"
+
+#~ msgid "Attachment Text Format:"
+#~ msgstr "Формат текста прикрепления:"
+
+#~ msgid "Set your own format:"
+#~ msgstr "Настроить ваш собственный формат:"
+
+#~ msgid "Repost to vKontakte(VK)"
+#~ msgstr "переразместить на vKontakte(VK)"
+
+#~ msgid "Post Types"
+#~ msgstr "Типы сообщений"
+
+#~ msgid "Repost to WP Blog"
+#~ msgstr "переразместить в WP Blog"
+
+#~ msgid "YouTube API Library not found"
+#~ msgstr "YouTube API библиотека не найдена"
+
+#~ msgid "YouTube doesn't have a built-in API for automated posts yet."
+#~ msgstr ""
+#~ "YouTube в настоящее время не имеет встроенного API для автоматизации "
+#~ "сообщений. "
+
+#~ msgid ""
+#~ "The current <a target=\"_blank\" href=\"http://developers.google.com/+/"
+#~ "api/\">YouTube API</a> is \"Read Only\" and can't be used for posting.  "
+#~ "<br/><br/>You need to get a special <a target=\"_blank\" href=\"http://"
+#~ "www.nextscripts.com/google-plus-automated-posting\"><b>API Library "
+#~ "Module</b></a> to be able to publish your content to YouTube."
+#~ msgstr ""
+#~ "Настоящий <a target=\"_blank\" href=\"http://developers.google.com/+/api/"
+#~ "\">YouTube API</a> is \"Read Only\" и не может быть использован для "
+#~ "размещения.  <br/><br/>Вам необходимо приобрести <a target=\"_blank\" "
+#~ "href=\"http://www.nextscripts.com/google-plus-automated-posting\"><b>API "
+#~ "библиотеки</b></a>чтобы получить возможность публиковать ваши сообщения "
+#~ "на YouTube."
+
+#~ msgid "New post: %TITLE% - %URL%"
+#~ msgstr "Новая запись: %TITLE% - %URL%"
+
+#~ msgid "Repost to YouTube"
+#~ msgstr "переразместить на YouTube"
